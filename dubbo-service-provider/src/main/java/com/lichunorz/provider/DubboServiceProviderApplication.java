@@ -9,7 +9,7 @@ public class DubboServiceProviderApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DubboServiceProviderApplication.class, args);
-        Main.main(args);
+        Main.main(null);
     }
 
 }
